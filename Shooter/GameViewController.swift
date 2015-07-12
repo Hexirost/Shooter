@@ -25,6 +25,8 @@ extension SKNode {
     }
 }
 
+var scene : GameScene!
+
 class GameViewController: UIViewController {
 
     override func viewDidLoad() {
